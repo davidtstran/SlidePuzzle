@@ -1,0 +1,5 @@
+﻿  Puzzle.cpp
+c:\users\david\documents\visual studio 2017\projects\cs461 program_1\cs461 program_1\puzzle.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\documents\visual studio 2017\projects\cs461 program_1\cs461 program_1\puzzle.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\documents\visual studio 2017\projects\cs461 program_1\cs461 program_1\puzzle.cpp(103): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+  CS461 Program_1.vcxproj -> C:\Users\david\Documents\Visual Studio 2017\Projects\CS461 Program_1\Debug\CS461 Program_1.exe
